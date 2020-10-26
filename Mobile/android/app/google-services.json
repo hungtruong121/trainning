@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "725754704265",
+    "firebase_url": "https://teamsport-1b4d4.firebaseio.com",
+    "project_id": "teamsport-1b4d4",
+    "storage_bucket": "teamsport-1b4d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725754704265:android:22f099fb103c4c6aec3158",
+        "android_client_info": {
+          "package_name": "com.teamsport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725754704265-ihsauges5u9h0ja4sgctr8s28mqj01rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamsport",
+            "certificate_hash": "c1be42887833fe18b1f9f761e3260c66fa853803"
+          }
+        },
+        {
+          "client_id": "725754704265-seq65e3fidugl7tlaepehlk6q1iso5tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbWIn5ZkMoyuoEETnipRR1q7g4s_v35Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725754704265-seq65e3fidugl7tlaepehlk6q1iso5tc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725754704265-t4h5ka5mbl42or8la7c8lh5eal85kgga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sport.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
